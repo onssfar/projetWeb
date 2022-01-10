@@ -1,0 +1,30 @@
+.topPart {
+    background-color: rgba(175, 175, 175, 0.809);
+    position: fixed;
+    top: 0%;
+    left: 0%;
+    right: 0%;
+    height: 13%;
+}
+
+p.title {
+    font-size: 24px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.midPart{
+    position: fixed;
+    top: 17%;
+}
+
+table{
+    position: fixed;
+    top: 19%;
+    right: 20%; 
+}
+
+table.td{
+    width: 100%;
+}
