@@ -14,17 +14,34 @@ p.title {
     display: flex;
 }
 
-.midPart{
+.midPart {
     position: fixed;
     top: 17%;
 }
 
-table{
+table {
     position: fixed;
     top: 19%;
-    right: 20%; 
+    right: 20%;
 }
 
-table.td{
+table.td {
     width: 100%;
+}
+
+.desCard {
+    position: relative;
+}
+
+.descAir {
+    position: absolute;
+    top: 24%;
+    right: 38%;
+}
+
+.descMac {
+    position: absolute;
+    right: 2%;
+    top: 20%;
+    width: 30%;
 }
